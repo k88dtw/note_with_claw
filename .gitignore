@@ -1,0 +1,11 @@
+# 獨立 git repo（有自己的 remote: k88dtw/skills_zerocraw）
+skills_zerocraw/
+
+# ZeroClaw OS layer（開發與敏感檔案）
+os_layer/
+
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
